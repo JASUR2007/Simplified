@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 15",
+    "categoryId": "1",
+    "description": "Iphone 15...",
+    "image": "/uploads/1733424928005.webp"
+  },
+  {
+    "id": 2,
+    "name": "Полотенце",
+    "categoryId": "2",
+    "description": "Полотенце",
+    "image": "/uploads/1733424610458.jpeg"
+  }
+]

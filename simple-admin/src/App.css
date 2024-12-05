@@ -1,0 +1,14 @@
+.app {
+    display: flex;
+    flex-direction: column;
+  }
+  .content {
+    display: flex;
+    margin-top: 80px;
+  }
+  .main-content {
+    margin-left: 270px; 
+    padding: 20px;
+    width: 100%;
+  }
+  
